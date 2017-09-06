@@ -1,0 +1,116 @@
+LXGIWYL = อาวุธ Set 1, Thug's Tools
+KJKSZPJ = อาวุธ Set 2, Professional Tools
+UZUMYMW = อาวุธ Set 3, Nutter Tools
+WANRLTW = กระสุนอมตะ, ไม่ต้องเปลี่ยนกระสุน
+SJMAHPE = รับคนใหม่ทุกๆ หนึ่งคน ได้ (9mm)
+ZSOXFSQ = รับคนใหม่ทุกๆ หนึ่งคน ได้ (Rockets)
+
+สภาพอากาศ 
+AFZLLQLL = ฟ้าแจ่มใส
+ICIKPYH = ฟ้าแจ่มใส
+ALNSFMZO = เมฆมาก
+AUIFRVQS = ฝน
+CFVFGMJ = หมอก
+XJVSNAJ = เป็นตอนกลางคืนตลอด
+OFVIAC = ฟ้าสีส้ม 21:00
+MGHXYRM = พายุฝน
+CWJXUOC = พายุทราย
+
+เวลา 
+YSOHNUL = นาฬิกาเร็ว
+PPGWJHT = เล่นเกมแบบเร็ว
+LIYOAAY = เล่นเกมแบบช้า
+
+Status 
+BAGUVIX = อมตะ จากโดนปืนยิง(เท่านั้น)
+CVWKXAM = ออกซิเจนอมตะ
+HESOYAM = เพิ่มเลือด, เกราะ, ตัง$250k
+OSRBLHH = เพิ่ม Wanted Level ดาว 2 ดวง
+ASNAEB = ลบดาว Wanted Level
+LFGMHAL = กระโดดสูง
+AEZAKMI = ไม่มีวันติดดาว Wanted
+LJSPQK = 6 ดาว Wanted Level
+IAVENJQ = ต่อยหนัก
+AEDUWNV = ไม่มีวันหิว
+MUNASEF = โหมดอะดรินาลีน
+OGXSDAG = Respect เต็ม
+EHIBXQS = Sex Appeal เต็ม
+NCSGDAG = มีสเตตัสการใช้อาวุธเต็ม
+VQIMAHA = มีสเตตัสการขับขี่เต็ม
+BUFFMEUP เพิ่มค่า MUSCLE
+เสกรถ
+AIWPRTON = Spawn Rhino
+CQZIJMB = Spawn Bloodring Banger
+JQNTDMH = Spawn Rancher
+PDNEJOH = Spawn Racecar
+VPJTQWV = Spawn Racecar
+AQTBCODX = Spawn Romero
+UBHYZHQ = Spawn Trashmaster
+RZHSUEW = Spawn Caddy
+AKJJYGLC = Spawn Quad
+AMOMHRER = Spawn Tanker Truck
+EEGCYXT = Spawn Dozer
+URKQSRK = Spawn Stunt Plane
+AGBDLCID = Spawn Monster
+KRIJEBR = Spawn Stretch
+
+เสกเครื่องบิน 
+OHDUDE = Spawn Hunter
+JUMPJET = Spawn Hydra
+
+เสกเรือ 
+KGGGDKP = Spawn Vortex Hovercraft
+
+เสกอื่นๆ 
+AIYPWZQP = Have Parachute
+YECGAA = Have Jetpack
+
+จราจร 
+ZEIIVG = ไฟเขียวตลอด
+LLQPFBN = ไฟสีชมพู
+IOWDLAC = ไฟสีดำ
+BGKGTJH = การจราจรรถถูก
+GUSNHDE = การจราจรรถเร็ว
+THGLOJ = การจราจรลด
+
+เมือง 
+BAGOWPG = โดนทุกคนหมายหัว
+FOOOXFT = ทุกคนมีอาวุธ
+IOJUFZN = โหมดก่อจลาจล
+PRIEBJ = ตัวละครตลก
+ASBHGRB = มีเอลวิสทุกที่
+AFPHULTL = นินจาทั้งเมือง(มาเฟีย)
+BEKKNQV = กะหรี่เยอะ
+CIKGCGX = แต่งชุดชายหาด
+MROEMZH = มีแก๊งในสังกัดทุกที่
+BIFBUZZ = มีทุกแก๊งคุมถนน
+
+รถ 
+VKYPQCF = รถแท๊กซี่มีไนตรัส, stamina เต็ม
+BMTPWHR = รถแบบคันทรี่และ Peds, Get Born 2 Truck Outfit
+AJLOJYQY = Peds Attack Each Other, ได้ Golf Club
+RIPAZHA = รถบินได้
+JHJOECW = กระต่ายกระโดด
+JCNRUAD = รถที่ถูกชนจะระเบิด(ไม่เสียหาย)
+COXEFGU = รถทุกคันมีไนโตร
+BSXSGGC = รถที่ถูกชนจะลอย
+CPKTNWT = ระเบิดรถทุกคัน
+XICWMD = รถล่องหน
+PGGOMOY = บังคับรถได้ดี
+OUIQDMW = โผล่ออกมายิงปืนนอกรถได้
+FVTMNBZ = มียานพาหนะแบบคันทรี่
+
+อื่น ๆ 
+SZCMAWO = ฆ่าตัวตาย
+YLTEICZ = มีคนช่วยยิง
+SPEEDITUP – เร่งความเร็ว
+SLOWITDOWN - เกมลดความเร็ว
+XJVSNAJ - เวลา จะมีแค่ 0.00น - 12.00น
+OFVIAC - เวลาเป็น 21.00น
+SLOWITDOWN - เกมลดความเร็ว
+GHOSTTOWN - มีรถน้อยในเมือง
+YLTEICZ - รถบนถนนขับชนกันมั่ว
+CPKTNWT - ระเบิดรถรอบข้าง
+ZEIIVG - ไฟจราจรเป็นไฟเขียวหมด
+MUNASEF - เหมือนใช้ adrenaline อยู่
+FULLCLIP - กระสุนไม่จำกัด
